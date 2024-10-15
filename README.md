@@ -16,17 +16,20 @@ BSides Ahmedabad 2024 was a vibrant gathering of cybersecurity enthusiasts, prof
 
 In this repository, you will find:
 
-| Day   | Workshop Title                                        | PDF Link            |
-|-------|-------------------------------------------------------|---------------------|
-| Day 1 | Vulnerability Scanning And Enumeration with Nuclei: Deep Dive | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Workshop/Vulnerability%20Scanning%20And%20Enumeration%20with%20Nuclei%20Deep%20Dive.pdf) |
+### Workshops
+
+| Day   | Workshop Title                                        | Original Authors                                   | PDF Link                                                                                           |
+|-------|------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Day 1 | Vulnerability Scanning And Enumeration with Nuclei: Deep Dive | [Dhiyaneshwaran](https://x.com/DhiyaneshDK) and [Tarun Koyalwar](https://x.com/KoyalwarTarun) | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Workshop/Vulnerability%20Scanning%20And%20Enumeration%20with%20Nuclei%20Deep%20Dive.pdf) |
 
 ### Technical Talks
 
-| Day   | Talk Title                                             | PDF Link            |
-|-------|-------------------------------------------------------|---------------------|
-| Day 1 | Web3 Bug Bounties: Why and How to Get Started        | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/Web3%20Bug%20Bounties_%20Why%20and%20How%20to%20Get%20Starte.pdf) |
-| Day 2 | The Art of Authentication Bypass                      | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/The%20Art%20Of%20Authentication%20Bypass%20by%20XHackerx007.pdf) |
-| Day 2 | The Art of VirusTotal Hacking: 0 Days Recon/Tips     | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/The%20Art%20of%20VirusTotal%20Hacking_%200%20Days%20Recon_Tips.pdf) |
+| Day   | Talk Title                                             | Original Authors                                   | PDF Link                                                                                           |
+|-------|-------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Day 1 | Web3 Bug Bounties: Why and How to Get Started        | [Arbaz Hussain](https://x.com/ArbazKiraak) and [Nemveer](https://x.com/nem_veer) | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/Web3%20Bug%20Bounties_%20Why%20and%20How%20to%20Get%20Starte.pdf) |
+| Day 2 | The Art of Authentication Bypass                      | [Abdullah Nawaf](https://x.com/XHackerx007)      | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/The%20Art%20Of%20Authentication%20Bypass%20by%20XHackerx007.pdf) |
+| Day 2 | The Art of VirusTotal Hacking: 0 Days Recon/Tips     | [Godfather Orwa](https://x.com/GodfatherOrwa)    | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Technical-Talk/The%20Art%20of%20VirusTotal%20Hacking_%200%20Days%20Recon_Tips.pdf) |
+
 
 
 

@@ -21,6 +21,7 @@ In this repository, you will find:
 | Day   | Workshop Title                                        | Original Authors                                   | PDF Link                                                                                           |
 |-------|------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Day 1 | Vulnerability Scanning And Enumeration with Nuclei: Deep Dive | [Dhiyaneshwaran](https://x.com/DhiyaneshDK) and [Tarun Koyalwar](https://x.com/KoyalwarTarun) | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/2b288bdbdc10d9d9e723cc3ec8abb80260fe3a2d/Workshop/Vulnerability%20Scanning%20And%20Enumeration%20with%20Nuclei%20Deep%20Dive.pdf) |
+| Day 2 | Command & Control in Purple Teaming | [Chinamay Joshi](https://www.linkedin.com/in/chinamay-joshi-466592178/) | [View](https://github.com/thecyberneh/BSides-Ahmedabad-2024-Conference-Slides/blob/ff7758c2d068187a8248154733e7d0919100cf9d/Workshop/Command%20%26%20Control%20in%20Purple%20Teaming_compressed.pdf) |
 
 ### Technical Talks
 
